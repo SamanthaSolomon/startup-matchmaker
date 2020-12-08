@@ -1,6 +1,21 @@
 /* ################################################## */
 /* ########### YOUR CUSTOM CSS ########### */
 /* ################################################## */
+*{
+    border: 1px solid;
+}
+
+#page-header{
+background-color: black;
+}
+
+h1{
+    color: yellow;
+}
+
+nav{
+    color:white
+}
 
 /* BACKGROUND IMAGE URL */
 /* https://res.cloudinary.com/jkeohan/image/upload/v1607432403/coworking_nxwjrp.jpg */
